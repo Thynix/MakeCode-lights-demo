@@ -1,5 +1,5 @@
 {
-    "name": "adafruit feather m0 express",
+    "name": "MakeCode lights demo",
     "description": "",
     "dependencies": {
         "adafruit-circuit-playground-express": "*"
